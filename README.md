@@ -2,7 +2,7 @@
 
 This demo explores a mouse over effect that unblurs HTML elements that are near to it.
 
-See it live [here]().
+See it live [here](blur-demo.vercel.app).
 
 ## Quick Breakdown
 
